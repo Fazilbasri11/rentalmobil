@@ -5,6 +5,6 @@
 -   run node `npm run dev`
 -   run `php artisan ser`
 
-#auth
+# auth
 
 -   admin `email:admin@a` | `password:admin`
